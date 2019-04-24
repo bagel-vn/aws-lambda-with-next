@@ -1,0 +1,20 @@
+{
+  "name": "aws-lambda-with-next",
+  "version": "1.0.0",
+  "description": "AWS Lambda Serverless with NextJS Example",
+  "main": "lambda.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "NODE_ENV=production next start"
+  },
+  "author": "Radup",
+  "license": "MIT",
+  "dependencies": {
+    "aws-serverless-express": "^3.3.6",
+    "express": "^4.16.4",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
