@@ -11,6 +11,7 @@
   "author": "Radup",
   "license": "MIT",
   "dependencies": {
+    "amazon-cognito-identity-js": "^3.0.11",
     "aws-serverless-express": "^3.3.6",
     "express": "^4.16.4",
     "next": "^8.1.0",
