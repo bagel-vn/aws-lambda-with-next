@@ -2,3 +2,4 @@ node_modules/
 package-lock.json
 .next/
 claudia.json
+.DS_Store
