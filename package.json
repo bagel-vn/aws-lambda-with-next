@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "AWS Lambda Serverless with NextJS Example",
   "main": "lambda.js",
+  "files": [
+    ".next/",
+    "pages/",
+    "static",
+    "lambda.js",
+    "app.js",
+    "next.config.js"
+  ],
   "scripts": {
     "dev": "next",
     "build": "next build",
